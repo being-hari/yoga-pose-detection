@@ -1,12 +1,6 @@
 
-TOOL NAME:Mediapipe
-
-TEAM MEMBERS: 
-* Ashok A
-* Ramalingam A
-* Hariram s
-
-PROBLEM STATEMENT : Developing an application for yoga pose detection.The primary goal of Yoga pose detection application is to provide standard and correct yoga postures using computer vision,Analyze human poses to detect and practise yoga poses to benefit humans to achieve a healthier life in their homely environment.
+STATEMENT:
+* The fundamental goal of Yoga pose detection and correction is to provide standard yoga poses and help the user to correct their poses with the help of real-time feedback.  This proposed tool can assist the user in practicing nine different yoga poses using computer vision, it analyzes the human poses, detects and corrects the user, ensuring   a healthier lifestyle, and promotes well-being for people belonging to all age groups. This application provides a user-friendly environment that benefits users in the      process of yoga learning and practice. Live webcams are used to detect the pose of the user and display the name of the Asana with accuracy. Corrections in angles would be  mentioned and highlighted. This provides the user a choice to choose from i.e. Demo and Practice where a learning pathway consisting of several Asanas in the right order    is accessible to the user and the detection of yoga poses is also available. The history of learned and practiced Asanas are maintained and displayed to the user.
 
 INSTALLATION:
   * Python
